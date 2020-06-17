@@ -1,4 +1,6 @@
-![Nodejs]()
+<div align="center"> 
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='NodeJS logo' 
+</div>
 
 # Desafio - Conceitos de NodeJS
 
