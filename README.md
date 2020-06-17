@@ -1,4 +1,4 @@
-![Nodejs](https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg)
+![Nodejs]()
 
 # Desafio - Conceitos de NodeJS
 
