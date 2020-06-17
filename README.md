@@ -1,6 +1,6 @@
-<div align="center"> 
-  <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='NodeJS logo' 
-</div>
+<p align="center"> 
+  <img src='https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg' alt='NodeJS logo' width="200px" height="123px" />
+</p>
 
 # Desafio - Conceitos de NodeJS
 
