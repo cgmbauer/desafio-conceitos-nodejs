@@ -1,3 +1,5 @@
+![Nodejs](https://github.com/cgmbauer/assets/blob/master/logo/nodejs-seeklogo.com.svg)
+
 # Desafio - Conceitos de NodeJS
 
 Desafio proposto no bootcamp GoStack para demonstrar conhecimentos adquiridos em NodeJS.
