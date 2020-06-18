@@ -39,7 +39,7 @@ yarn dev
 
 Recomendo que você tenha o [Insomnia](https://insomnia.rest/) ou o [Postman](https://www.postman.com/) para poder ver os resultados dos métodos HTTPs.
 
-## Note
+## Nota
 
 Esta API não utiliza banco de dados. Invés disto, todos os repositórios criados são adicionados a um array. Logo, **após salvar qualquer alteração no arquivo app.js, os repositórios criados serão perdidos**, necessitando que sejam adicionados novamente.
 
