@@ -32,6 +32,10 @@ git clone https://github.com/cgmbauer/desafio-conceitos-nodejs.git
 ```sh
 yarn
 ```
+- Para inicializar
+```sh
+yarn dev
+```
 
 Recomendo que você tenha o [Insomnia](https://insomnia.rest/) ou o [Postman](https://www.postman.com/) para poder ver os resultados dos métodos HTTPs.
 
