@@ -32,7 +32,7 @@ git clone https://github.com/cgmbauer/desafio-conceitos-nodejs.git
 ```sh
 yarn
 ```
-- Para inicializar
+- Para inicializar a aplicação
 ```sh
 yarn dev
 ```
