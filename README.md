@@ -4,9 +4,7 @@
 
 # Desafio - Conceitos de NodeJS
 
-Desafio proposto no bootcamp GoStack para demonstrar conhecimentos adquiridos no módulo Conceitos em NodeJS.  
-Trata-se de uma API simples, que utiliza dos conceitos de RESTFUL API, com métodos HTTPs e Middlewares.  
-Posteriormente será integrada com um front-end.
+Desafio proposto no bootcamp GoStack para demonstrar conhecimentos adquiridos em NodeJS, utilizando S.O.L.I.D.
 
 ## Construído com
 
@@ -34,14 +32,12 @@ yarn
 ```
 - Para inicializar a aplicação
 ```sh
-yarn dev
+yarn dev:server
 ```
 
 Recomendo que você tenha o [Insomnia](https://insomnia.rest/) ou o [Postman](https://www.postman.com/) para poder ver os resultados dos métodos HTTPs.
 
 ## Nota
-
-Esta API não utiliza banco de dados. Invés disto, todos os repositórios criados são adicionados a um array. Logo, **após salvar qualquer alteração no arquivo app.js, os repositórios criados serão perdidos**, necessitando que sejam adicionados novamente.
 
 
 ## Reconhecimento
